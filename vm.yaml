@@ -1,0 +1,7 @@
+apiVersion: virtuozzo.com/v1
+kind: VirtualMachine
+metadata:
+  name: vm1
+  namespace: default
+spec:
+  memory: 4096
